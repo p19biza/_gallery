@@ -7,7 +7,7 @@ caption: Το ArchBang είναι ένα απλό και ελαφρύ Linux dist
 license_url: "https://en.wikipedia.org/wiki/ArchBang#/media/File:ArchBang_0111_screenshot.png" 
 license_text: wikipedia
 categories:
-  - Εργαλεία
+  - Operating Systems
 tags:
   - ArchBang
   - i3 window manager
